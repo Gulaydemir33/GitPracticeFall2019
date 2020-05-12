@@ -4,3 +4,6 @@ Georgia
 Texas
 California
 Pennsylvania
+Ohio
+Arizona
+Kansas
